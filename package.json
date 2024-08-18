@@ -1,0 +1,21 @@
+{
+    "name": "packedmc",
+    "version": "0.1.0",
+    "description": "Compiler library for packedmc",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Cabra (https://github.com/cabraviva)",
+    "license": "MIT",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cabraviva/packedmc-lib.git"
+    },
+    "bugs": {
+        "url": "https://github.com/cabraviva/packedmc-lib/issues"
+    },
+    "homepage": "https://github.com/cabraviva/packedmc-lib#readme"
+}
